@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "dotenv": "^7.0.0",
     "firebase-admin": "^7.3.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "moment-timezone": "^0.5.25",
     "node-cron": "^2.0.3"
   }
